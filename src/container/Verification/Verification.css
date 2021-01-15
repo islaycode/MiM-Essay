@@ -1,0 +1,20 @@
+.userInput {
+    display: flex;
+    justify-content: center;
+}
+/* input {
+    height: 35px;
+    width: 65px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    background:grey;
+} */
+.otp-field {
+    width: 38px;
+    margin-right: 10px;
+    padding-left: 12px;
+    height: 40px;
+}
